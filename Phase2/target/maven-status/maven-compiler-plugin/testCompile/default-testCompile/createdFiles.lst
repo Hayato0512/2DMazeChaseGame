@@ -1,0 +1,9 @@
+main/CollisionCheckerTest.class
+main/IntegrationTest.class
+main/AssetSetterTest.class
+<<<<<<< HEAD
+main/GamePanelTest.class
+=======
+>>>>>>> 8031b761f57fbdf554f87ffc8c4a55b935457bc1
+main/KeyHandlerTest.class
+Entities/MainCharacterTVTest.class

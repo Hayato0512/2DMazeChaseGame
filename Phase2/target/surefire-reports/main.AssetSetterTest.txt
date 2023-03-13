@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: main.AssetSetterTest
+-------------------------------------------------------------------------------
+<<<<<<< HEAD
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.277 s - in main.AssetSetterTest
+=======
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.2 s - in main.AssetSetterTest
+>>>>>>> 9126732f4fb0efb2a9d85a0e934b9ed9af51134a

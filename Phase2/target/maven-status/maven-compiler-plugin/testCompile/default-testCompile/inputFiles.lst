@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+/Users/hayatokoyama/IdeaProjects/project/Phase2/src/test/java/main/IntegrationTest.java
+/Users/hayatokoyama/IdeaProjects/project/Phase2/src/test/java/main/GamePanelTest.java
+/Users/hayatokoyama/IdeaProjects/project/Phase2/src/test/java/Entities/MainCharacterTVTest.java
+/Users/hayatokoyama/IdeaProjects/project/Phase2/src/test/java/main/CollisionCheckerTest.java
+/Users/hayatokoyama/IdeaProjects/project/Phase2/src/test/java/main/AssetSetterTest.java
+/Users/hayatokoyama/IdeaProjects/project/Phase2/src/test/java/main/KeyHandlerTest.java
+=======
+/home/connortuna/project/Phase2/src/test/java/main/AssetSetterTest.java
+/home/connortuna/project/Phase2/src/test/java/main/GamePanelTest.java
+/home/connortuna/project/Phase2/src/test/java/main/KeyHandlerTest.java
+/home/connortuna/project/Phase2/src/test/java/main/IntegrationTest.java
+/home/connortuna/project/Phase2/src/test/java/main/CollisionCheckerTest.java
+/home/connortuna/project/Phase2/src/test/java/Entities/MainCharacterTVTest.java
+>>>>>>> 8031b761f57fbdf554f87ffc8c4a55b935457bc1
